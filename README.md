@@ -29,3 +29,9 @@ probReview.py:
 - log-normal distrbution
 - Value-at-Risk return, wealth, and loss distributions
 
+monthly-returns-4panel-view.py:
+Plot 4 panels on monthly Continuosly Compounded returns:
+- histogram
+- smoothed histogram
+- boxplot
+- QQ plot
